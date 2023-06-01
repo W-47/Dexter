@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Ooh dear you still wanna know about me. Well you will find out soon enough
